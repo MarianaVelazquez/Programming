@@ -1,0 +1,52 @@
+body{
+    background-color: #bec092;
+}
+
+header{
+    
+    background: #54582f;
+    padding: 15px;
+    font-family: "Audiowide", sans-serif;
+    border: #272b00 5px solid;
+    border-bottom:  0px solid;
+}
+
+img{
+    width: 200px;
+    float: right;
+}
+
+h2{
+    font-family: "Kanit", sans-serif;
+}
+
+h3{
+    font-family: "Nanum Gothic", sans-serif;
+}
+
+p{
+    font-family: "Barlow", sans-serif;
+}
+
+#correo{
+    color: #004173; 
+}
+
+li{
+    font-family: "Heebo", sans-serif; 
+}
+
+.left {
+    float: left;
+    width: 37%;
+    background: #86895d;
+    padding: 15px;
+    border: #272b00 5px solid;
+  }
+
+.right{
+    float: right;
+    width: 55%;
+    padding: 15px;
+    border: #272b00 5px solid;
+}
