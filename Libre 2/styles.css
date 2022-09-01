@@ -1,0 +1,41 @@
+body{
+    background-color: #ffff94;
+}
+
+header{
+    background-color: #f9db5c;
+    color: black;
+    padding: 40px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.names{
+    color: black;
+    padding: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.left {
+    float: left;
+    width: 50%;
+    background: gray;
+    padding: 15px;
+  }
+
+  .right {
+    float: right;
+    width: 35%;
+    background: lightslategray;
+    padding: 15px;
+    text-align: center;
+  }
+button{
+  font-size: 1 em;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+  border: 1px solid #222;
+  border-radius: 0;
+}
