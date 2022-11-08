@@ -1,0 +1,24 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+}
+
+#menu a{
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+#header button{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+footer {
+    background: #007E33;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
